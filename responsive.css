@@ -1,0 +1,39 @@
+@media(max-width:1607px){
+    .step1{
+        width: 33%;
+    }
+}
+
+@media(max-width:796px){
+    .step1{
+        width:100%
+    }
+
+    .imgbox1{
+        width: 37%;
+    }
+    .menu ul li a{
+        width: 100%;
+        font-size: 18px;
+        padding: 0;
+
+    }
+
+
+}
+
+@media(max-width:536px){
+    .banner{
+        width: 100%;
+    }
+}
+
+@media(max-width:538px){
+    .banner{
+        width: 100%;
+    }
+ 
+}
+@media{
+
+}
